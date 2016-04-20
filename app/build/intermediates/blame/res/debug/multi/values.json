@@ -1,0 +1,353 @@
+[
+    {
+        "outputFile": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 46,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 3,
+                        "startOffset": 103,
+                        "endColumn": 45,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 46,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 33,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 3,
+                        "startOffset": 572,
+                        "endColumn": 32,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 62,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 54,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 41,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 3,
+                        "startOffset": 531,
+                        "endColumn": 40,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 48,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 3,
+                        "startOffset": 407,
+                        "endColumn": 47,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endLine": 10,
+                    "endColumn": 50,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 3,
+                        "startOffset": 801,
+                        "endLine": 18,
+                        "endColumn": 50,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 54,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 3,
+                        "startOffset": 747,
+                        "endColumn": 53,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 37,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 3,
+                        "startOffset": 370,
+                        "endColumn": 36,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 39,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 3,
+                        "startOffset": 492,
+                        "endColumn": 38,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endLine": 15,
+                    "endColumn": 54,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 3,
+                        "startOffset": 658,
+                        "endLine": 15,
+                        "endColumn": 54,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 53,
+                    "endOffset": 740
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 3,
+                        "startOffset": 605,
+                        "endColumn": 52,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 745,
+                    "endColumn": 71,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 3,
+                        "startOffset": 241,
+                        "endColumn": 70,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 37,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 3,
+                        "startOffset": 455,
+                        "endColumn": 36,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 73,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 3,
+                        "startOffset": 116,
+                        "endColumn": 72,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 52,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 3,
+                        "startOffset": 189,
+                        "endColumn": 51,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 58,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment3\\GCFavouriteTwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 3,
+                        "startOffset": 312,
+                        "endColumn": 57,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    }
+]

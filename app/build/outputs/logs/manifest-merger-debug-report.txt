@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:2:1-17:12
+	xmlns:android
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:3:4-48
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:4:28-53
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:4:4-27
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:5:4-15:18
+	android:label
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:6:7-39
+	android:icon
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:5:17-46
+activity#com.deitel.favoritetwittersearches.FavoriteTwitterSearches
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:7:7-14:18
+	android:windowSoftInputMode
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:9:10-57
+	android:label
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:8:10-42
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:7:17-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:10:10-13:26
+action#android.intent.action.MAIN
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:11:13-65
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:11:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:12:23-70
+uses-sdk
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:16:4-71
+	android:targetSdkVersion
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:16:14-43
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml:16:44-69
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFavouriteTwitterSearches\app\src\main\AndroidManifest.xml
